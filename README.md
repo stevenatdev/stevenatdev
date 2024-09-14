@@ -1,16 +1,16 @@
-### Hi there 👋 I'm [StevenATDEV](https://github.com/stevenatdev/stevenatdev)
+### Hola 👋 soy Steven / [StevenATDEV](https://github.com/stevenatdev/stevenatdev)
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm a Associate Software Engineer at Acentura
+## Soy estudiante en la Ingeniería de Software
 
-- 👨‍💻 I’m currently working on machine learning and data mining projects using python.
-- 📚 Learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- 👨‍💻 Actualmente estoy trabajando en proyectos de aprendizaje y una app para el municipio de mi ciudad.
+- 📚 Aprendiendo todo sobre tecnologías Frontend y Backend 😅
+- 💪🏼 Objetivos a futuro: Seguir aprendiendo nuevas tecnologías y mantener siempre la creatividad para generar ideas innovadoras.
 
 ---
 
-##### Languages I use
+##### Lenguajes que uso
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -21,7 +21,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
-##### Some of the technologies I have worked with
+##### Algunas de las tecnologías con las que he trabajado
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
@@ -40,6 +40,5 @@
 
 ---
 
-Credit: [Danushka2](https://github.com/Danushka2)
+Contacto: [Danushka2](https://github.com/Danushka2)
 
-Last edited on: 30/06/2022
