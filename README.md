@@ -60,6 +60,7 @@
   </td>
 </tr>
 </table>
+<br/>
 
-Contacto: [Danushka2](https://github.com/Danushka2)
+📫 Contacto: **tstevensantacruz@gmail.com**
 
