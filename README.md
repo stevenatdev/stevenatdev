@@ -38,7 +38,6 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&logo=angular&logoColor=DD0031)
-![Java Spring](https://img.shields.io/badge/-Spring-222222?style=flat&logo=spring&logoColor=6DB33F)
 ![Firebase](https://img.shields.io/badge/Firebase-222222?style=flat-square&logo=firebase)
 <br/>
 
