@@ -2,13 +2,14 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-##### Soy estudiante en la Ingeniería de Software
+## Soy estudiante en la Ingeniería de Software
 
 - 👨‍💻 Actualmente desarrollo proyectos de aprendizaje y una app para el municipio local.
 - 📚 Aprendiendo a dominar tecnologías Frontend y Backend. 😅
 - 💪🏼 Metas a futuro: Aprender nuevas tecnologías - Convertir cada idea en innovación.
 
-📫 Contacto: **tstevensantacruz@gmail.com**
+###### 📫 Contacto: **tstevensantacruz@gmail.com**
+
 ---
 
 ##### Lenguajes que uso
