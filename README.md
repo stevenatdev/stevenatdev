@@ -5,7 +5,7 @@
 ## Soy estudiante en la Ingeniería de Software
 
 - 👨‍💻 Actualmente desarrollo proyectos de aprendizaje y una app para el municipio local.
-- 📚 Aprendiendo todo sobre tecnologías Frontend y Backend 😅
+- 📚 Aprendiendo a dominar tecnologías Frontend y Backend. 😅
 - 💪🏼 Metas a futuro: Aprender nuevas tecnologías - Convertir cada idea en innovación.
 
 ---
