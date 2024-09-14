@@ -48,7 +48,4 @@
     alt="example" />
 </p>
 
----
-
-<h2>GitHub :octocat:</h2>
 
