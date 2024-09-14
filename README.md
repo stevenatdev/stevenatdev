@@ -61,7 +61,6 @@
 </tr>
 </table>
 
-<div>
-  📫 Contacto: **tstevensantacruz@gmail.com**
-</div>
+---
 
+📫 Contacto: **tstevensantacruz@gmail.com**
