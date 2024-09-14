@@ -29,7 +29,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+#![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 ##### Algunas de las tecnologías con las que he trabajado
 
