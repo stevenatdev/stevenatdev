@@ -29,7 +29,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-#![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 
 ##### Algunas de las tecnologías con las que he trabajado
 
@@ -39,7 +38,15 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
 ![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&logo=angular&logoColor=DD0031)
 ![Firebase](https://img.shields.io/badge/Firebase-222222?style=flat-square&logo=firebase)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 <br/>
+
+---
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
 
 ---
 
