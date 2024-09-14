@@ -8,7 +8,7 @@
 - 📚 Aprendiendo a dominar tecnologías Frontend y Backend. 😅
 - 💪🏼 Metas a futuro: Aprender nuevas tecnologías - Convertir cada idea en innovación.
 
-📫 Contacto: **tstevensantacruz@gmail.com**
+📫 Contacto: tstevensantacruz@gmail.com
 ---
 
 ##### Lenguajes que uso
