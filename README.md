@@ -8,6 +8,7 @@
 <a href = "mailto:tstevensantacruz@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@stevenatdev"  /></a>
   </p>
 <br>
+
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 ## Soy estudiante en la Ingeniería de Software
