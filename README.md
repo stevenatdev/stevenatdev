@@ -60,7 +60,7 @@
 
 <!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
   <br></br> -->
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenatdev)](https://github.com/stevenatdev/github-readme-stats)
+  <img alt="stevenatdev stats" src="https://github-readme-stats.vercel.app/api?username=stevenatdev&show_icons=true&theme=radical" />
 </td>
 
 <td width="40%" align="center">
