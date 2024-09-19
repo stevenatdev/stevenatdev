@@ -51,22 +51,15 @@
 ---
 
 <h2>GitHub :octocat:</h2>
-<!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
 <table align="left">
 <tr border="none">
-<td width="60%" align="center">
-
-<!--  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=unsimpledev&theme=dark&show_icons=true&count_private=true" />
-  <br></br> -->
+<td width="50%" align="center">
   <img alt="stevenatdev stats" src="https://github-readme-stats.vercel.app/api?username=stevenatdev&show_icons=true&theme=radical" />
 </td>
 
-<td width="40%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenatdev&layout=compact&theme=radical"/>
-
+<td width="50%" align="center">
+  <img alt="stevenatdev stats"  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenatdev&layout=compact&theme=radical&show_icons=true"/>
   </td>
 </tr>
 </table>
