@@ -53,12 +53,12 @@
 <h2>GitHub :octocat:</h2>
 <p align="center">
 <table align="left">
-<tr border="none">
-<td width="60%" align="center">
+<tr>
+<td width="50%" align="center">
   <img alt="stevenatdev stats" src="https://github-readme-stats.vercel.app/api?username=stevenatdev&show_icons=true&theme=radical" />
 </td>
 
-<td width="40%" align="center">
+<td width="50%" align="center">
   <img alt="stevenatdev stats"  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenatdev&layout=compact&theme=radical&show_icons=true"/>
   </td>
 </tr>
