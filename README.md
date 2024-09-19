@@ -52,7 +52,7 @@
 
 <h2>GitHub :octocat:</h2>
 <p align="center">
-<table align="left">
+<table align="left" border="none">
 <tr>
 <td width="50%" align="center">
   <img alt="stevenatdev stats" src="https://github-readme-stats.vercel.app/api?username=stevenatdev&show_icons=true&theme=radical" />
