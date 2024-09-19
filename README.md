@@ -65,7 +65,7 @@
 
 <td width="40%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenatdev&hide_progress=true"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenatdev&layout=compact&theme=radical"/>
 
   </td>
 </tr>
