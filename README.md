@@ -9,36 +9,38 @@
   </p>
 <br>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<img align="right" height="180px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3VnMWR5ZXB2eGxvMTRzbW9xY2hyMnQwZm11ZmNhcHV2ZWNjcW84dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" />
 
-## Soy Ingeniero de Software
+## 💻 Ingeniero de Software
 
-- 👨‍💻 Actualmente desarrollo proyectos de aprendizaje y una app para el municipio local.
-- 📚 Aprendiendo a dominar tecnologías Frontend y Backend. 😅
-- 💪🏼 Metas a futuro: Aprender nuevas tecnologías - Convertir cada idea en innovación.
+Me gusta construir cosas.
+Desde interfaces en Angular hasta APIs con NestJS, disfruto el proceso de transformar una idea en una solución funcional.
+Actualmente desarrollo software profesional mientras continúo explorando nuevas tecnologías, patrones de diseño y formas de mejorar como ingeniero.
+
+- 🚀 Siempre aprendiendo.
+- 🛠️ Siempre construyendo.
+- 📈 Siempre buscando el siguiente desafío.
 
 ###### 📫 Contacto: **tstevensantacruz@gmail.com**
 
 ---
 
-##### Tecnologías que uso
+## 🛠️ Tech Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
-![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+### Frontend
+![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&logo=angular&logoColor=DD0031) ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript) ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3) ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-000000?style=flat&logo=tailwindcss)
+
+### Backend
+![NestJS](https://img.shields.io/badge/-NestJS-000000?style=flat&logo=nestjs&logoColor=E0234E) ![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
+
+### Bases de Datos
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
-##### Algunas de las tecnologías con las que he trabajado
+### DevOps & Herramientas
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=docker&logoColor=2496ED) ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032) ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 
-![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)
-![Node.js](https://img.shields.io/badge/-Node.js-222222?style=flat&logo=node.js&logoColor=339933)
-![Angular](https://img.shields.io/badge/-Angular-222222?style=flat&logo=angular&logoColor=DD0031)
-![Firebase](https://img.shields.io/badge/Firebase-222222?style=flat-square&logo=firebase)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+### Experiencia previa
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript) ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php) ![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jquery&logoColor=0769AD) ![Firebase](https://img.shields.io/badge/-Firebase-222222?style=flat&logo=firebase&logoColor=FFCA28)
 <br/>
 
 ---
