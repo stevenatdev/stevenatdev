@@ -13,8 +13,10 @@
 
 ## 💻 Ingeniero de Software
 
-Me gusta construir cosas.
+Me gusta construir cosas. 
+<br>
 Desde interfaces en Angular hasta APIs con NestJS, disfruto el proceso de transformar una idea en una solución funcional.
+<br>
 Actualmente desarrollo software profesional mientras continúo explorando nuevas tecnologías, patrones de diseño y formas de mejorar como ingeniero.
 
 - 🚀 Siempre aprendiendo.
