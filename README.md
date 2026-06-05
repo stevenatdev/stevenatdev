@@ -15,10 +15,10 @@
 
 Me gusta construir cosas. 
 <br>
-Desde interfaces en Angular hasta APIs con NestJS, disfruto el proceso de transformar una idea en una solución funcional.
+Desde interfaces en Angular hasta APIs con NestJS, disfruto el proceso de transformar ideas en una solución funcional.
 <br>
 Actualmente desarrollo software profesional mientras continúo explorando nuevas tecnologías, patrones de diseño y formas de mejorar como ingeniero.
-
+<br>
 - 🚀 Siempre aprendiendo.
 - 🛠️ Siempre construyendo.
 - 📈 Siempre buscando el siguiente desafío.
