@@ -9,7 +9,7 @@
   </p>
 <br>
 
-<img align="right" height="180px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3VnMWR5ZXB2eGxvMTRzbW9xY2hyMnQwZm11ZmNhcHV2ZWNjcW84dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" />
+<img align="right" height="150px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3VnMWR5ZXB2eGxvMTRzbW9xY2hyMnQwZm11ZmNhcHV2ZWNjcW84dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" />
 
 ## 💻 Ingeniero de Software
 
