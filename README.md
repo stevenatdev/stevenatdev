@@ -11,7 +11,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## Soy estudiante en la Ingeniería de Software
+## Soy Ingeniero de Software
 
 - 👨‍💻 Actualmente desarrollo proyectos de aprendizaje y una app para el municipio local.
 - 📚 Aprendiendo a dominar tecnologías Frontend y Backend. 😅
